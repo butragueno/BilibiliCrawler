@@ -15,6 +15,7 @@ def runTime(func):
         print('running', end-start, 's')
     return wrapper
 
+
 @runTime
 def userVideoThreadRun(STARTID=1,STOPID=1,para1=1,para2=3):
     def queueUid(uidQueue,STARTID,STOPID):
