@@ -1,0 +1,33 @@
+bilibilicrawler/bilibili.db
+bilibilicrawler/crawler.py
+bilibilicrawler/db.py
+bilibilicrawler/getHead.py
+bilibilicrawler/log.py
+bilibilicrawler/proxyPool.py
+bilibilicrawler/readme
+bilibilicrawler/run.py
+bilibilicrawler/ui.py
+bilibilicrawler/user_agents.txt
+log/20210505173445 log.json
+log/20210505182427 log.json
+log/20210505190153 log.json
+log/20210506093748 log.json
+log/20210506094311 log.json
+log/20210506103939 log.json
+log/20210514111404 log.json
+__pycache__/crawler.cpython-38.pyc
+__pycache__/db.cpython-38.pyc
+__pycache__/getHead.cpython-38.pyc
+__pycache__/log.cpython-38.pyc
+__pycache__/proxyPool.cpython-38.pyc
+__pycache__/run.cpython-38.pyc
+__pycache__/test.cpython-38.pyc
+1.txt
+bilibili.db
+bilibilicrawler.rar
+log.json
+pic.png
+proxies.json
+test.py
+test1.py
+ui.md
